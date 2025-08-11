@@ -22,4 +22,4 @@ Este projeto foi desenvolvido com base no **curso para iniciantes em programaç�
 4. Veja quantas tentativas foram necessárias para vencer!
 
 ## 🔗 Acesse o jogo
-Você pode jogar clicando neste link: **[Jogar agora]()**  
+Você pode jogar clicando neste link: **[Jogar agora](https://jogo-do-numero-secreto-l8dn.vercel.app/)**  
