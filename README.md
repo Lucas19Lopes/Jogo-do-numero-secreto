@@ -13,7 +13,6 @@ Este projeto foi desenvolvido com base no **curso para iniciantes em programaç�
 
 ## 🛠️ Tecnologias utilizadas
 - **HTML5**
-- **CSS3**
 - **JavaScript**
 
 ## 🎮 Como jogar
